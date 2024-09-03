@@ -173,6 +173,3 @@ To stop the running Docker container, press `Ctrl + C` in the terminal window wh
 docker ps  # This shows the running containers with their container IDs.
 docker stop <container_id>  # Replace <container_id> with your container's ID.
 ```
-
-
-TEST FETCH & PULL
