@@ -58,7 +58,7 @@ http://localhost:5000/prediction
 
 the number 5000 indicates the port that will be accessed, and will display the following result:
 
-![alt text](image-1.png)
+![alt text](display_prediction_page.png)
 
 ## **Step 7: Make Predictions**
 Enter the required input data in the prediction form and submit it to see the model's prediction results displayed on the page.
