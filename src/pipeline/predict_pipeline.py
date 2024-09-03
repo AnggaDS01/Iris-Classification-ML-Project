@@ -17,7 +17,7 @@ class PredictPipeline:
 
     def predict(self, features):
         try:
-            model_path = 'artifacts/model.pkl'
+            model_path = 'model/model.pkl'
             features_preprocessor_path = 'artifacts/features_preprocessor.pkl'
             label_preprocessor_path = 'artifacts/label_preprocessor.pkl'
 
