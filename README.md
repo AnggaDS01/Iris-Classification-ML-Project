@@ -99,7 +99,7 @@ Use the example above to find out the prediction result, or use the following li
 
 # How to Containerize the Project with Docker (optional)
 Step 1: Install Docker
-Before you can run the Docker container, you need to have Docker installed on your machine. You can download Docker from the official Docker website.
+Before you can run the Docker container, you need to have Docker installed on your machine. You can download Docker from the official [Docker website](!https://www.docker.com/products/docker-desktop/).
 
 ### **Step 2: Initialize Docker Setup**
 
